@@ -2,9 +2,9 @@
 
 This section documents the Sheets created from BigQuery queries to support Sarah, the Finance Leader, in analyzing sales, revenue, and costs.
 
-| Sheet Name                  | Description                                              | Link |
-|-----------------------------|----------------------------------------------------------|------|
-| Index                       | We created this index, because when using the free version of BigQuery, one cannot unify in one single Google Sheets Books, sheets that come from different SQL queries. | [Open](https://docs.google.com/spreadsheets/d/1GiDFN_f_6JSeeUpENWCz33DkWQsgm-EPKKnOMKve5aE/edit?usp=sharing) |
+| Sheet Name                  | Description                                              |
+|-----------------------------|----------------------------------------------------------|
+| [Index] (https://docs.google.com/spreadsheets/d/1GiDFN_f_6JSeeUpENWCz33DkWQsgm-EPKKnOMKve5aE/edit?usp=sharing)                       | We created this index, because when using the free version of BigQuery, one cannot unify in one single Google Sheets Books, sheets that come from different SQL queries. |
 
 | **Book:** Daily_Sales Worksheet |||
 | Full Price Sales    
