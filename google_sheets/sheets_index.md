@@ -4,8 +4,7 @@ This section documents the Sheets created from BigQuery queries to support Sarah
 
 | Sheet Name                  | Description                                              | Link |
 |-----------------------------|----------------------------------------------------------|------|
-| Index                       | We created this index, because when using the free version of BigQuery, one cannot unify in one single Google Sheets Books, sheets that come from different SQL queries. | [Open](https://docs.google.com/spreadsheets/d/1GiDFN_f_6JSeeUpENWCz33DkWQsgm-EPKKnOMKve5aE/edit?usp=sharing) |
-| **Book:** Daily_Sales Worksheet |                                                      |      |
+| [Index] (https://docs.google.com/spreadsheets/d/1GiDFN_f_6JSeeUpENWCz33DkWQsgm-EPKKnOMKve5aE/edit?usp=sharing)                       | We created this index, because when using the free version of BigQuery, one cannot unify in one single Google Sheets Books, sheets that come from different SQL queries. | [Open] |
 | Full Price Sales            | Full Price Sales over time, broken down by Method and combined (Method & time). | [Open](https://docs.google.com/spreadsheets/d/1TkvEkzNEnuQBYfv11IVpvG4SQ0FjAvQZR4-ZZBtvF60/edit?gid=1094126242#gid=1094126242) |
 | Total Revenue               | Total Revenue over time, broken down by Method and combined.    | [Open](https://docs.google.com/spreadsheets/d/1TkvEkzNEnuQBYfv11IVpvG4SQ0FjAvQZR4-ZZBtvF60/edit?gid=1922689457#gid=1922689457) |
 | Revenue Chart               | Total Revenue over time.                                        | [Open](https://docs.google.com/spreadsheets/d/1TkvEkzNEnuQBYfv11IVpvG4SQ0FjAvQZR4-ZZBtvF60/edit?gid=743099105#gid=743099105) |
@@ -14,7 +13,7 @@ This section documents the Sheets created from BigQuery queries to support Sarah
 | Revenue & Discount Chart    | Total Revenue and Average Discount in percentage over time.     | [Open](https://docs.google.com/spreadsheets/d/1TkvEkzNEnuQBYfv11IVpvG4SQ0FjAvQZR4-ZZBtvF60/edit?gid=1034787980#gid=1034787980) |
 
 
-| x   | x | [Open](x) |
+| GrossProfit   | Total Revenue, Cost and Gross Profit over time.  | [Open](https://docs.google.com/spreadsheets/d/1mO4bshfjjHqsJFHhEgchALbagoQLxHtduFRdnufFjgU/edit?gid=629675178#gid=629675178) |
 | x   | x | [Open](x) |
 | x   | x | [Open](x) |
 | x   | x | [Open](x) |
