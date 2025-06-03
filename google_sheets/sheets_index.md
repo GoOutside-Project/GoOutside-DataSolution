@@ -4,9 +4,7 @@ This section documents the Sheets created from BigQuery queries to support Sarah
 
 | Sheet Name                  | Description                                              | Link |
 |-----------------------------|----------------------------------------------------------|------|
-| Index                       
-| We created this index, because when using the free version of BigQuery, one cannot unify in one single Google Sheets Books, sheets that come from different SQL queries. 
-| [Open](https://docs.google.com/spreadsheets/d/1GiDFN_f_6JSeeUpENWCz33DkWQsgm-EPKKnOMKve5aE/edit?usp=sharing) |
+| Index                       | We created this index, because when using the free version of BigQuery, one cannot unify in one single Google Sheets Books, sheets that come from different SQL queries. | [Open](https://docs.google.com/spreadsheets/d/1GiDFN_f_6JSeeUpENWCz33DkWQsgm-EPKKnOMKve5aE/edit?usp=sharing) |
 
 | **Book:** Daily_Sales Worksheet |||
 | Full Price Sales    
