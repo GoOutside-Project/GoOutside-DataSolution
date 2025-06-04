@@ -24,3 +24,24 @@ This section documents the Sheets created from BigQuery queries to support Sarah
 ---
 
 *All sheets are generated via BigQuery-connected tables.*
+
+---
+
+## Sample Visuals from Google Sheets
+
+These charts were built directly from BigQuery-connected Sheets to support financial decision-making at GoOutside.
+
+### Sheets Overview Index
+![Index](screenshots/index.png)
+
+### Total Revenue by Sales Method
+![Total Revenue by Method](screenshots/total-revenue-by-method.png)
+
+### Total Revenue and Discount Over Time
+![Total Revenue and Discount Over Time](screenshots/total-revenue-and-discount-over-time.png)
+
+### Revenue, Costs and Gross Profit Over Time
+![Revenue, Costs and Gross Profit Over Time](screenshots/revenue-costs-and-gross-profit-over-time.png)
+
+### Revenue and Gross Profit by Country
+![Revenue and Gross Profit by Country](screenshots/revenue-and-gross-profit-by-country.png)
