@@ -1,6 +1,6 @@
 # Google Sheets for Finance Analysis
 
-This section documents the Sheets created from BigQuery queries to support Sarah, the Finance Leader, in analyzing sales, revenue, and costs.
+This section documents the Sheets created from BigQuery queries to showcase revelant data such as: revenue, costs, discounts, and their split by product lines or country, among other variables.
 
 | Sheet Name | Description |
 |------------|-------------|
@@ -29,7 +29,7 @@ This section documents the Sheets created from BigQuery queries to support Sarah
 
 ## Sample Visuals from Google Sheets
 
-These charts were built directly from BigQuery-connected Sheets to support financial decision-making at GoOutside.
+Here are some of the charts created in the previous section. 
 
 ![Index](screenshots/index.png)
 
