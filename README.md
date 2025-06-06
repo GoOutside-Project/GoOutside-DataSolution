@@ -1,9 +1,9 @@
 # :camping: GoOutside Data Dashboard Project
-
+---
 This project was created as a team effort to help GoOutside, a growing adventure and camping gear company, transform its scattered data into actionable insights.
 We built a complete data solution using BigQuery, Google Sheets, and Looker Studio — enabling the company to track performance across countries, retailers, and brands in a user-friendly, real-time dashboard.
 
-:busts_in_silhouette: Team Members
+## :busts_in_silhouette: Team Members
 
 Valeria Gonzalez
 Tornike Chumburidze
@@ -30,7 +30,7 @@ CSV Files – Historical raw data sources
 
 :link: Live Dashboard
 Explore our final Looker Studio dashboard:
- :point_right: GoOutside Looker Studio Dashboard
+ :point_right: GoOutside Looker Studio Dashboard (https://lookerstudio.google.com/reporting/44c23ec8-6a90-4a8b-aebc-8bc094e545c9/page/lzVMF/edit)
  
 :open_file_folder: Data Overview
 
