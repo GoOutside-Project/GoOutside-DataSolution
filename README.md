@@ -40,9 +40,9 @@ We maintained a collaborative spreadsheet for prep and KPI tracking:
 ## :white_check_mark: Outcome
 
 This project helped GoOutside:
-Enable finance and retail teams to make faster, smarter decisions
-Track the performance of products, retailers, and countries
-Identify top brands, growth opportunities, and underperformers
-Scale data access without needing SQL knowledge
+- Enable finance and retail teams to make faster, smarter decisions
+- Track the performance of products, retailers, and countries
+- Identify top brands, growth opportunities, and underperformers
+- Scale data access without needing SQL knowledge
 
 This project was part of a hands-on data collaboration sprint using mock datasets, focused on real-world usability, automation, and decision-making power.
