@@ -30,7 +30,7 @@ We collaborated on data import, transformation, visualisation, and automation.
 
 ## :link: Live Dashboard
 Explore our final Looker Studio dashboard:
-[GoOutside Looker Studio Dashboard] (https://lookerstudio.google.com/reporting/44c23ec8-6a90-4a8b-aebc-8bc094e545c9/page/lzVMF/edit)
+[GoOutside Looker Studio Dashboard](https://lookerstudio.google.com/reporting/44c23ec8-6a90-4a8b-aebc-8bc094e545c9/page/lzVMF/edit)
  
 ## :open_file_folder: Data Overview
 
